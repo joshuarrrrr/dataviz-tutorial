@@ -1,7 +1,9 @@
 # Svelte DataViz Tutorial
 
 Tutorial for Data Visualization with [Svelte](https://svelte.dev/).
-Data Source: [Our World in Data](https://github.com/owid/co2-data)
+Data Source: [Our World in Data](https://github.com/owid/co2-data).
+
+[Live Demo](https://joshuarrrrr.github.io/dataviz-tutorial/)
 
 ## development
 
